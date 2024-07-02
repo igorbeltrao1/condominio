@@ -12,5 +12,5 @@ public class Fatura {
     @GeneratedValue(strategy = GenerationType.AUTO)
     private Long id;
 
-    private Apartameto apartameto;
+//    private Apartameto apartameto;
 }
